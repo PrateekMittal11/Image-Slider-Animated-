@@ -1,0 +1,46 @@
+#hero
+{
+	font-family:monospace;
+	font-size:17px;
+}
+#outer
+{
+	height:500px;
+	width:800px;
+	background-image:url("1.jpg");
+	position:relative;
+	float:left;
+}
+#inner
+{
+	height:0px;
+	width:800px;
+	background-image:url("2.jpg");
+	position:absolute;
+}
+#you
+{
+	font-family:monospace;
+	font-size:30px;
+	margin-top:520px;
+	margin-left:340px;
+	float:left;
+}
+#cover
+{
+	background-color:maroon;
+	height:240px;
+	width:20px;
+	margin-left:20px;
+	margin-top:130px;
+	position:relative;
+	float:left;
+}
+#slice
+{
+	background-color:grey;
+	height:40px;
+	width:20px;
+	margin-top:0px;
+	position:absolute;
+}
